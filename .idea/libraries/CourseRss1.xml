@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CourseRss1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Week 1/CourseRss/perimeter.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Week 1/CourseRss/perimeter_quiz.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Week 1/CourseRss/hello.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
